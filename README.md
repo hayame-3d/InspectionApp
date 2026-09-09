@@ -65,7 +65,7 @@ Luego abre `InspectionApp.sln`.
 ## Ejecución
 
 ```bash
-.uild\src\Release\InspectionApp.exe
+.\build\src\Release\InspectionApp.exe
 ```
 
 Los recursos (shaders) se copian automáticamente al directorio de salida.
@@ -96,6 +96,11 @@ Los recursos (shaders) se copian automáticamente al directorio de salida.
 
 ## Licencia
 
+El proyecto fue iniciado y es mantenido públicamente por
+[`hayame-3d`](https://github.com/hayame-3d). Consulta [AUTHORS.md](AUTHORS.md)
+para conocer cómo se registra la autoría sin exponer datos personales.
+
 El código propio de esta maqueta se publica bajo la [licencia MIT](LICENSE).
 Las dependencias incluidas o referenciadas conservan sus licencias originales,
 detalladas en [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
