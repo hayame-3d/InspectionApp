@@ -1,0 +1,32 @@
+# Build
+build/
+build-*/
+out/
+cmake-build-*/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Binarios
+*.exe
+*.dll
+*.pdb
+*.zip
+
+# Estado local
+*.log
+imgui.ini
+/cd
+/ninja
+/estructura.txt
+/src.zip
+
+# Samples grandes
+samples/pts/*.pts
+samples/cloud/*.cloud
+*.e57
+*.cloud
+*.inspection-report

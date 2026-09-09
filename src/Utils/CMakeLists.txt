@@ -1,0 +1,2 @@
+add_library(UtilsModule INTERFACE)
+target_include_directories(UtilsModule INTERFACE ${CMAKE_CURRENT_SOURCE_DIR})
